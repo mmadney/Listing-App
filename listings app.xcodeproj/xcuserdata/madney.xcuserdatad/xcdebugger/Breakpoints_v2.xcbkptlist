@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5CF9DA0C-9618-44E1-899A-4E0C8FD5C88D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD3B95FF-0042-4693-A217-81736A8D6CBB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "listings app/NetworkLayer/CompineApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "execute(_:decodingType:queue:retries:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD3B95FF-0042-4693-A217-81736A8D6CBB - d999c65b516e8ed9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Foundation.Data in listings_app.CombineAPI.execute&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(_: Foundation.URLRequest, decodingType: &#x3c4;_1_0.Type, queue: __C.OS_dispatch_queue, retries: Swift.Int) -&gt; Combine.AnyPublisher&lt;&#x3c4;_1_0, Swift.Error&gt;"
+                  moduleName = "listings app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madney/Desktop/IOS%20Leranning/Listing/listings%20app/NetworkLayer/CompineApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "FD3B95FF-0042-4693-A217-81736A8D6CBB - d999c65b516e8ed9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Foundation.Data in listings_app.CombineAPI.execute&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(_: Foundation.URLRequest, decodingType: &#x3c4;_1_0.Type, queue: __C.OS_dispatch_queue, retries: Swift.Int) -&gt; Combine.AnyPublisher&lt;&#x3c4;_1_0, Swift.Error&gt;"
+                  moduleName = "listings app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madney/Desktop/IOS%20Leranning/Listing/listings%20app/NetworkLayer/CompineApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "211">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A001FEB-DB03-4DA4-825C-43771E9B6284"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "listings app/Api/productsApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getProducts(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D18D80B0-DB92-478A-8D4A-ADEA625740C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "listings app/Products/ViewModel/ProductsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D18D80B0-DB92-478A-8D4A-ADEA625740C9 - 21ca3b88b1c68c33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "listings_app.ProductsViewModel.getProducts() -&gt; ()"
+                  moduleName = "listings app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madney/Desktop/IOS%20Leranning/Listing/listings%20app/Products/ViewModel/ProductsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "D18D80B0-DB92-478A-8D4A-ADEA625740C9 - 6caa281a145ba475"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in listings_app.ProductsViewModel.getProducts() -&gt; ()"
+                  moduleName = "listings app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madney/Desktop/IOS%20Leranning/Listing/listings%20app/Products/ViewModel/ProductsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "110">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53E80C10-CD82-4E0A-90EE-58D7A0377DC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "listings app/Products/ViewModel/ProductsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getProducts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
